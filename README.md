@@ -1,6 +1,6 @@
 # vacopie_plot
 
-A utility function that can be used to analyze the variance and covariances of multiple featured data at once and can be used as an alternative to pair plot.
+An utility function that can be used to analyze the variance and covariances of multiple featured data at once and can be used as an alternative to pair plot.
 
 This plot shows the variances and co-variance both normalized, in the form of a 2-layer pie chart. The inner pie chart is plot of variances (normalized) of each feature while each sector of inner pie chart contains on outer layer pie chart, the normalized co-variance of rest of the features with respect to the feature of the corresponding sector.
 
